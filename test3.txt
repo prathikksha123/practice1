@@ -6,3 +6,5 @@ git status
 git commit -m "test2.txt file added"
 git push origin main
 git pull
+git remote add origin https://github.com/prathikksha123/repository2.git
+git branch
