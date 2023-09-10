@@ -1,0 +1,6 @@
+git clone fileurl
+cd
+git status
+git add test2.txt
+git status
+git commit -m "test2.txt file added"
